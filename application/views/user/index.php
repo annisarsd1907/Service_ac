@@ -46,7 +46,7 @@
           <li><a href="#section-about">Layanan</a></li>
           <li><a href="#section-works">Promo</a></li>
           <li><a href="#section-contact">Kontak Kami</a></li>
-          <li><a href="#section-contact">Panduan Aplikasi</a></li>
+          <li><a href="">Panduan Aplikasi</a></li>
           <li><a href="<?php echo site_url('Login')?>" >Login</a></li>
         </ul>
       </div>
